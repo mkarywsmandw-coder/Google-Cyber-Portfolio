@@ -1,0 +1,10 @@
+Strumenti di Protezione Operativa (أدوات حماية العمليات)
+1. IDS (Sistema di Rilevamento delle Intrusioni):
+• نظام كشف التسلل (Monitoring del traffico di rete per attività sospette).
+2. Firewall (Parafuoco):
+• جدار الحماية (Barriera di sicurezza per bloccare accessi non autorizzati).
+3. Crittografia (Encryption):
+• التشفير (Protezione dei dati rendendoli illeggibili a chi non ha la chiave).
+4. Antivirus / Anti-malware:
+• مضاد الفيروسات (Software per rilevare e rimuovere programmi dannosi).
+5. SIEM (Gestione delle informazioni e degli eventi di sicurezza):
